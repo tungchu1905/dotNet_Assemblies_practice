@@ -1,0 +1,9 @@
+D:\C# Project\Bai_Tap\Staff_Library\ConsoleManage\bin\Debug\ConsoleManage.exe
+D:\C# Project\Bai_Tap\Staff_Library\ConsoleManage\bin\Debug\ConsoleManage.pdb
+D:\C# Project\Bai_Tap\Staff_Library\ConsoleManage\bin\Debug\Staff_Library.dll
+D:\C# Project\Bai_Tap\Staff_Library\ConsoleManage\bin\Debug\Staff_Library.pdb
+D:\C# Project\Bai_Tap\Staff_Library\ConsoleManage\obj\Debug\ConsoleManage.csprojAssemblyReference.cache
+D:\C# Project\Bai_Tap\Staff_Library\ConsoleManage\obj\Debug\ConsoleManage.csproj.CoreCompileInputs.cache
+D:\C# Project\Bai_Tap\Staff_Library\ConsoleManage\obj\Debug\ConsoleManage.csproj.CopyComplete
+D:\C# Project\Bai_Tap\Staff_Library\ConsoleManage\obj\Debug\ConsoleManage.exe
+D:\C# Project\Bai_Tap\Staff_Library\ConsoleManage\obj\Debug\ConsoleManage.pdb
